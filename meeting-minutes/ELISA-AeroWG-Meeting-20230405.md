@@ -24,7 +24,7 @@
 - Martin Halle – TUHH
 - Sam Thompson – Rapita
 - Stefano Dell'Osa - Intel
-- Rajesh Kurapati
+- Rajesh Kurapati - Kugler Maag Cie (KMC)
 
 ## Attended in the past
 - Sebastien Boria
